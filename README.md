@@ -19,15 +19,18 @@ An AI-powered Resume Analyzer built with **Python, Flask, Google Gemini 2.5, and
 
 ## 📸 Preview
 
-Add screenshots of your application here.
+<img width="1918" height="977" alt="image" src="https://github.com/user-attachments/assets/2296a960-4ef1-4de1-b90b-de475d50144c" />
+
 
 ### Home Page
 
-![Home Page](screenshots/home.png)
+<img width="1907" height="957" alt="image" src="https://github.com/user-attachments/assets/dbb711af-098a-4515-93ae-f724186c9462" />
+
 
 ### Analysis Result
 
-![Analysis Result](screenshots/result.png)
+<img width="1918" height="981" alt="image" src="https://github.com/user-attachments/assets/4ea55175-6458-42b6-a06d-2dac12bdd621" />
+
 
 ---
 
